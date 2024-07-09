@@ -1,2 +1,2 @@
 # loginPages
-Login pages of selected wed apps.
+Login pages of selected web apps.
